@@ -1,0 +1,20 @@
+# Ignorar archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de entorno virtual
+venv/
+env/
+ENV/
+
+# Ignorar archivos de registro y caché
+*.log
+*.cache
+*.swp
+
+# Ignorar archivos de configuración local
+config.ini
+
+.idea/

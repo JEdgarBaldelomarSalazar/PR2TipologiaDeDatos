@@ -8,6 +8,7 @@ __pycache__/
 venv/
 env/
 ENV/
+.venv/
 
 # Ignorar archivos de registro y caché
 *.log

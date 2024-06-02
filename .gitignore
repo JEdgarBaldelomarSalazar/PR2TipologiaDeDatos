@@ -20,3 +20,6 @@ config.ini
 
 .idea/
 .DS_store
+*.py
+source/
+

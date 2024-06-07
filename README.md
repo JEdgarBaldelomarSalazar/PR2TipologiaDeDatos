@@ -1,7 +1,10 @@
 # PR2 - Tipología y clico de vida de los datos
-### Juan
 
-## Requisitos previos
+---
+    authors:
+    - Juan Edgar Baldelomar Salazar
+    - Javier Alonso Duran
+---
 
 Antes de poder ejecutar el Jupyter Notebook, necesitarás tener instalado lo siguiente:
 
